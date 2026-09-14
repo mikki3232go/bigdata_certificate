@@ -1,13 +1,10 @@
-# [퇴근후딴짓] 빅데이터 분석기사 실기(최신개정판) - 길벗 시나공
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
 ### 시험 환경 적응하기 
 - 브라우저에서 바로 연습할 수 있는 코딩팡을 오픈했습니다. 🎉
 - 링크: [https://code.sideonai.com/](https://code.sideonai.com/)
 
-
-### 🌱 예제코드 바로 실행하는 방법
+###예제코드 바로 실행하는 방법
 - 노트북 선택(part/chapter) -> 구글 코랩에서 실행하기 -> Drive로 복사 -> 실행
 ![guide_colab](https://github.com/user-attachments/assets/840d2a4f-a725-4320-9c84-c76d37f910d7)
 
@@ -15,15 +12,12 @@
 - 사이트: https://nbviewer.org/
 - 위 사이트에서 URL 입력창에 열고자 하는 깃헙 노트북 주소(~~~~.ipynb)를 넣어주세요!
 
-### 🌱 예제코드 전체 다운로드 방법
+### 예제코드 전체 다운로드 방법
 - "Code" 버튼 클릭 -> 풀다운 메뉴에서 "Download Zip"을 선택
 - 입문자는 "예제코드 바로 실행하는 방법"을 추천합니다. 
 <img width="819" alt="Screenshot 2024-08-21 at 11 58 59 AM" src="https://github.com/user-attachments/assets/4ade48e7-9071-4849-9ea1-5828de49e554">
 
 
-### 🌱 안내사항
-- 도서 구매 구매 감사합니다.😊 합격 진심으로 응원합니다. 
-- 💬 소통 채널: 디스코드(Discord) https://discord.gg/V8acvTnHhH
 
 ### 🌱 강의 링크
 - 유튜브(무료): [링크](https://youtube.com/playlist?list=PLSlDi2AkDv82Qv7B3WiWypQSFmOCb-G_-&si=TssmZSX6UTBdKw5C)
